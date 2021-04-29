@@ -5,7 +5,7 @@ using UnityEngine;
 public class Car
 {
     public float maxSpeed = 120;
-    private int numberTires = 4;
+    private int numberTires;
     public float gasAmmount;
     public bool hasDiesel;
     public Color color;
