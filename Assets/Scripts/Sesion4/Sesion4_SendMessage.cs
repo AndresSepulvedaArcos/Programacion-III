@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class Sesion4_SendMessage : MonoBehaviour
 {
+ 
+    
     public GameObject other;
     public GameObject otherWithNoScript;
     // Start is called before the first frame update
